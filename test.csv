@@ -1,0 +1,4 @@
+User,Email,Client,Project,Task,Description,Billable,Start date,Start time,Duration,Tags
+James Greene,james.greene@ties.k12.mn.us,Iowa Department of Education,Iowa EdSpring.org,Operations setup and support,Analyzing and fixing why the Load Balancer did not include the timed Meteor instances for Prod Iowa TIER,Yes,2015-10-05,08:00:00,01:00:00,Operations
+James Greene,james.greene@ties.k12.mn.us,Iowa Department of Education,Iowa EdSpring.org,Operations setup and support,Implemented custom "create-deployment" command override for the AWS CLI,Yes,2015-10-05,09:00:00,03:00:00,Operations
+James Greene,james.greene@ties.k12.mn.us,Iowa Department of Education,Iowa EdSpring.org,Student merge and transfer process,Merged all of the recent enhancements for the MergeQueue into the "master" branch for later deployment,Yes,2015-10-05,12:00:00,03:00:00,Development
