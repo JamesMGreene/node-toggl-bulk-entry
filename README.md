@@ -185,6 +185,12 @@ SomeCompany.biz Consulting,My Cat's Startup,Internal website development,"Create
 ```
 
 
+
+## Contributing
+
+Contributions welcomed.  :+1:
+
+
 ## License
 Copyright (c) 2015 James M. Greene
 
