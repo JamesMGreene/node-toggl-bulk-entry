@@ -20,7 +20,7 @@ To help fill that gap, you can make use of this Node.js module to consume the sa
 ## Getting Started
 
 ```shell
-npm install toggl-bulk-entry
+npm install -g toggl-bulk-entry
 ```
 
 
