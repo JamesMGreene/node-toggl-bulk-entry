@@ -192,6 +192,5 @@ Contributions welcomed.  :+1:
 
 
 ## License
-Copyright (c) 2015 James M. Greene
-
+Copyright (c) 2015 James M. Greene  
 Licensed under the MIT license.
