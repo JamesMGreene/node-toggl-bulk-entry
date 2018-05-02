@@ -196,6 +196,10 @@ function transformTogglTimeEntryData(timeEntryData, togglBaseData) {
   if (!clientId && projectId) {
     clientId = (_.findWhere(matchingClients, { id: _.findWhere(matchingProjects, { id: projectId }).cid }) || {}).id;
   }
+    
+  if (!projectId && clientId) {
+    projectId = (_.findWhere(matchingProjects, { cid: clientId }) || {}).id;
+  }
 
   if (!workspaceId && clientId) {
     workspaceId = (_.findWhere(matchingWorkspaces, { id: _.findWhere(matchingClients,  { id: clientId  }).wid }) || {}).id;
