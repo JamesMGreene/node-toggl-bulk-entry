@@ -1,6 +1,6 @@
 {
   "name": "toggl-bulk-entry",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A Node.js module for orchestrating a \"bulk upload\" of time entries from a CSV file to Toggl.com via their API",
   "main": "index.js",
   "bin": "./cli.js",
