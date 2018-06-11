@@ -32,12 +32,12 @@
   "homepage": "https://github.com/JamesMGreene/node-toggl-bulk-entry#readme",
   "dependencies": {
     "fast-csv": "^0.6.0",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.10",
     "simple-rate-limiter": "^0.2.3",
-    "toggl-api": "0.0.3"
+    "toggl-api": "^1.0.1"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-contrib-jshint": "^0.11.3"
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^1.1.0"
   }
 }
